@@ -1,0 +1,9 @@
+Package: PythagoreanTheorem
+Type: Package
+Title: Pythagorean Theorem
+Version: 0.1.0
+Author: Jessica Carnes
+Maintainer: The package maintainer <jcarnes1@usf.edu>
+Description: Takes side 'A', side 'B' and squares both of those to get the third side, side 'C', which is also squared. 
+Encoding: UTF-8
+LazyData: true
